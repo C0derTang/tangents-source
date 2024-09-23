@@ -13,9 +13,10 @@ A custom blog site built using [Google's Firebase](https://firebase.google.com/)
 - **Firebase**: For authentication, database, and hosting.
 - **Google Authentication**: Integrated for secure user sign-in.
 - **Firestore**: Used for storing blog posts and comments.
-- **JavaScript**: Core programming language for front-end logic.
-- **HTML/CSS**: For structuring and styling the blog interface.
+- **ReactJS**: Core programming language for front-end logic.
+- **TailwindCSS**: For structuring and styling the blog interface.
 - **Markdown**: Posts are written using markdown format.
+- **Vite**: Fast and easy build tools
 
 ## Live Site:
 
